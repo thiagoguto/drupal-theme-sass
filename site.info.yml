@@ -1,11 +1,11 @@
-name: Blog Belo Vale
+name: Site
 type: theme
-description: 'Blog do cemiterio Belo Vale'
+description: 'Nome do tema'
 package: Other
 core: 8.x
 libraries:
-  - belovale/base-css
-  - belovale/base-js
+  - site/base-css
+  - site/base-js
  
 base theme: false
 
