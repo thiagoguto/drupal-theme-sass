@@ -1,0 +1,13 @@
+base-css:
+  version: 1.0
+  css:
+    theme:
+      assets/css/estilos.css : {}
+base-js:
+  version: 1.0
+  js:
+    assets/js/uikit.min.js : {}
+    assets/js/uikit-icons.min.js : {}
+  dependencies:
+    - core/jquery
+

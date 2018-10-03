@@ -1,0 +1,17 @@
+name: Blog Belo Vale
+type: theme
+description: 'Blog do cemiterio Belo Vale'
+package: Other
+core: 8.x
+libraries:
+  - belovale/base-css
+  - belovale/base-js
+ 
+base theme: false
+
+regions:
+  header: Header
+  sidebar_left: "Sidebar Left"
+  sidebar_right: "Sidebar Right"
+  content: Content
+  footer: Footer
